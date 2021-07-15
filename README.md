@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm either:
+
+![I Have No Idea What I'm Doing](https://i.kym-cdn.com/entries/icons/original/000/008/342/ihave.jpg)
+
+or
+
+![Baton Roue](https://i.kym-cdn.com/photos/images/newsfeed/001/016/674/802.jpg)
+
 <!--
 **f-a-a/f-a-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
